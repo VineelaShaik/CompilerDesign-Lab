@@ -1,9 +1,8 @@
 # Ex. No : 1
 
 # IMPLEMENTATION OF SYMBOL TABLE
-
-# Register Number :212223040192
-
+## Name: Vineela Shaik
+## Register Number : 212223040243
 # Date :10.03.2025
 
 # AIM:
